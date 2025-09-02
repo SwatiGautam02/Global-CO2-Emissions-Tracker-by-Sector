@@ -66,10 +66,9 @@ Jupyter Notebook – ETL walkthrough
 Tableau Public – dashboard & visual analysis
 Excel CSV – data format standardization
 
-##  📜 Citation and License
 
-Dataset Source:
-- Our World in Data (OWID) – CO₂ and Greenhouse Gas Emissions Dataset.
-https://github.com/owid/co2-data
-- Citation: Hannah Ritchie and Max Roser (2024) – "CO₂ and Greenhouse Gas Emissions". Published online at OurWorldInData.org.
-- Licensed under Creative Commons BY 4.0.
+
+
+
+
+
